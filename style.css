@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-colOr: rgb(86, 134, 15);
+    box-shadow: 1px 1px 4px black;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    
+    
+}
+.logo {
+    color: white;
+    margin-left: 30vh;
+    margin-top: 20px;
+   
+}
+.header ul li{
+    padding: 25px;
+    color: white;
+}
+
+.Courses{
+    padding-left: 100px;
+    height: 200px;
+    width: 210px;
+    border-radius: 8px;
+    background: rgb(231, 111, 67);
+    margin-left: 250px;
+    position: fixed;
+    margin-top: 30px;  
+}
+
+.Employ{
+    padding-left: 100px;
+    height: 200px;
+    width: 210px;
+    border-radius: 8px;
+    background: rgb(67, 193, 231);
+    margin-left: 37em;
+    position: fixed;
+    margin-top: 30px;  
+}
+.classes{
+    padding-left: 100px;
+    height: 200px;
+    width: 210px;
+    border-radius: 8px;
+    background: rgb(215, 231, 67);
+    position: fixed;
+    margin-top: 30px;
+    margin-left: 58em; 
+    
+
+
+}
